@@ -1,0 +1,5 @@
+﻿  Students.cpp
+c:\users\user\desktop\project1\project1\students.cpp(8): warning C4081: требуется "newline"; обнаружен ";"
+c:\users\user\desktop\project1\project1\students.cpp(183): warning C4101: a: неиспользованная локальная переменная
+c:\users\user\desktop\project1\project1\students.cpp(383): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\User\Desktop\Project1\Debug\Project1.exe
