@@ -1,3 +1,0 @@
-﻿  Source.cpp
-c:\users\user\desktop\деревья\деревья\source.cpp(109): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  деревья.vcxproj -> C:\Users\User\Desktop\деревья\Debug\деревья.exe
