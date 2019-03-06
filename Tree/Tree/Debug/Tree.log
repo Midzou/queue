@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\desktop\tree\tree\source.cpp(145): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\desktop\tree\tree\source.cpp(151): warning C4101: value: неиспользованная локальная переменная
+c:\users\user\desktop\tree\tree\source.cpp(141): warning C4101: a: неиспользованная локальная переменная
+  Tree.vcxproj -> C:\Users\User\Desktop\Tree\Debug\Tree.exe
